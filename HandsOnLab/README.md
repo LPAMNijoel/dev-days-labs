@@ -762,3 +762,4 @@ await Navigation.PushAsync(new DetailsPage(speaker, vm));
 ```
 
 There you have it!
+Thanks for Attending Xamarin Dev Days Abuja
